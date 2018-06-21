@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">file</string>
+    <string name="write">write</string>
+    <string name="read">Read</string>
+    <string name="textview">TextView</string>
+    <string name="entertext">entertext</string>
+</resources>
